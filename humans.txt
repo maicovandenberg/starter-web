@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Maico van den Berg  maico.van.den.berg@nl.ey.com maico
 
 # THANKS
 
